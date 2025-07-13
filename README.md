@@ -60,7 +60,7 @@ Criar uma ferramenta educacional para o ensino de lógica de programação, elet
 8. Reproduza a sequência usando os botões correspondentes.
 9. Download do Livro
 - Você pode baixar gratuitamente o capítulo completo contendo a explicação detalhada do projeto neste link:
-  ![EbooK Projetos com Arduino - Jogo da Memória](https://drive.google.com/file/d/1Z8rtr-rhby-Xf5437nJ2UBeoKgn5cq_g/view?usp=drive_link)
+[EbooK Projetos com Arduino - Jogo da Memória](https://drive.google.com/file/d/1Z8rtr-rhby-Xf5437nJ2UBeoKgn5cq_g/view?usp=drive_link)
 - Ou diretamente em nosso repositório do GitHub:
 [eBook-Projetos-Com-Arduino-Jogo-Da-Memoria.pdf](https://github.com/user-attachments/files/21204418/eBook-Projetos-Com-Arduino-Jogo-Da-Memoria.pdf)
 
